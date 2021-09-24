@@ -12,3 +12,4 @@ Compilation of useful scripts I have used.
 | [Scissors, Paper, Stone](https://github.com/lum-joseph/Python/blob/main/Scissors,%20Paper,%20Stone.ipynb) | Try Except, Random Integers, If Statements, Format |
 | [Combine Excel Files](https://github.com/lum-joseph/Python/blob/main/Concat%20Excels.py) | Combine excel files within specified file location |
 | [Webpage Scrolling](https://github.com/lum-joseph/Python/blob/main/Webpage%20Scrolling.ipynb) | Open webpage, scroll webpage, While loop |
+| [Bolt Size](https://github.com/lum-joseph/Python/tree/main/Bolt%20Size%20Calculations) | User input, mathematical calculations, rounding numbers |

@@ -5,6 +5,7 @@ Learning to webscrape using python
 ### Comparison between packages
 
 | | BeautifulSoup |	Selenium |	Scrapy |
+| :---:  | :---  | :--- | 
 | Javascript support |	No |	Yes |	Yes (via Splash library) |
 | Ideal Use Case	| Simple non-recurring web scraping tasks	| Small scale web scraping projects of javascript websites	| Large scale web scraping projects |
 | Asynchronous	| No	| No	| Yes |
